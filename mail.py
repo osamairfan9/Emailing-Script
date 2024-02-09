@@ -15,8 +15,8 @@ import random
 
 
 def send_email(receiver_email, subject, message, attachment_path=None):
-    sender_email = "k214772@nu.edu.pk"
-    sender_password = "odkp mlab ytie qocc"
+    sender_email = "abc@gmail.com"
+    sender_password = "1234"
     smtp_server = "smtp.gmail.com"
     smtp_port = 465
 
